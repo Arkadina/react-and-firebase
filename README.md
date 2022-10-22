@@ -6,8 +6,8 @@ This project is based on Hubert's Ryan <a href="https://github.com/HubertRyanOff
 
 <div style="display: flex; align-itens: center; justify-content: center; flex-direction: column;">
 <div><img src="https://i.ibb.co/7v1QVym/a1.png" style="border-radius: 8px; border: 2px solid #000;"/></div>
-<div><img src="https://i.ibb.co/gzBDMNN/a2.png" style="border-radius: 8px border: 2px solid #000;"/></div>
-<div><img src="https://i.ibb.co/HPDhsyB/a3.png" style="border-radius: 8px border: 2px solid #000;"/></div>
+<div><img src="https://i.ibb.co/gzBDMNN/a2.png" style="border-radius: 8px; border: 2px solid #000;"/></div>
+<div><img src="https://i.ibb.co/HPDhsyB/a3.png" style="border-radius: 8px; border: 2px solid #000;"/></div>
 
 </div>
 
