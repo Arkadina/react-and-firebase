@@ -1,0 +1,71 @@
+@import url("../../App.css");
+
+.register-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.register-form-container form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-form-container input {
+    border: 0.5px solid #999;
+    border-radius: 20px;
+    margin: 10px;
+    background: #eeeeee;
+    border-radius: 8px;
+    width: 100%;
+    border: none;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.register-form-container input::placeholder {
+    font-family: "Poppins", sans-serif;
+}
+
+.register-form-container input:focus {
+    box-shadow: 0 0 0 0;
+    border: 2px solid #1a191a;
+    outline: 0;
+}
+
+.register-form-container button {
+    padding: 3px 10px 3px 10px;
+    cursor: pointer;
+    max-width: 100%;
+    font-family: "Poppins", sans-serif;
+    border: 1px solid transparent;
+    border-radius: 6px;
+    color: #f0f0f0;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: #1a191a;
+}
+
+.link-login {
+    text-decoration: none;
+    color: #1a191a;
+    background-color: none;
+    border: none;
+    font-size: 16px;
+}
+
+input[type="text"] {
+    font-family: "Poppins", sans-serif;
+}
+input[type="password"] {
+    font-family: "Poppins", sans-serif;
+}
+
+.link-div {
+    margin: 5px 0px;
+}
