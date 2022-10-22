@@ -21,7 +21,6 @@ function User() {
     }, [isUpdated]);
 
     async function getUserData(user) {
-        console.log(user.uid);
         const userRef = firebase.firestore().collection("users").doc(user.uid);
 
         await userRef.get().then((doc) => {
